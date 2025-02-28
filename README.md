@@ -5,8 +5,3 @@
     dotnet add package System.IdentityModel.Tokens.Jwt --version 8.3.1
     dotnet add package dotenv.net --version 3.2.1
     dotnet add package BCrypt.Net-Next --version 4.0.3
-
-
-
-
-dotnet tool install --global dotnet-ef
